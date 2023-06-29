@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>The Colaboration Blog | {The History of Ferrari}</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="../styles.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <article>
+        <a href="/">Home</a>
+        <div class="article-header">
+          <h2 class="title">{The History of Ferrari}</h2>
+          <h3 class="author">by {Ahmed Usman Hussain}</h3>
+        </div>
+        <div class="article-body">
+          <p Ferrari S.p.A. is an Italian sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1928 as Scuderia Ferrari, the company sponsored drivers and manufactured race cars before moving into production of street-legal vehicles in 1947 as Ferrari S.p.A..
+              Throughout its history, the company has been noted for its continued participation in racing, especially in Formula One, where it has enjoyed great success.></p>
+          <h3 1929-1948></h3>
+          <P Enzo Ferrari never intended to produce road cars when he formed Scuderia Ferrari (literally Ferrari Stable, and usually used to mean Team Ferrari, it is correctly pronounced (skoo deh REE ah)) in 1929 as a sponsor for amateur drivers headquartered in Modena.
+            Ferrari prepared and successfully raced various drivers in Alfa Romeo cars until 1938, when he was hired by Alfa Romeo to head their motor racing department.
+            In 1941, Alfa Romeo was confiscated by the Fascist government of Benito Mussolini as part of the Axis Powers` war effort. Enzo Ferrari´s division was small enough to be unaffected by this. 
+            Because he was prohibited by contract from racing for four years, the Scuderia briefly became Auto Avio Costruzioni Ferrari, which ostensibly produced machine tools and aircraft accessories. 
+            Also known as SEFAC (Scuderia Enzo Ferrari Auto Corse), Ferrari did in fact produce one race car, the Tipo 815, in the non-competition period. It was the first actual Ferrari car (it debuted at the 1940 Mille Miglia), but due to World War II it saw little competition.
+            In 1943 the Ferrari factory moved to Maranello, where it has remained ever since. The factory was bombed by the Allies in 1944 and rebuilt in 1946, after the war ended, and included a works for road car production. Until Il Commendatore´s death, this would remain little more than a source of funding for his first love, racing.></P>
+          <h3 1947-Present ></h3>
+          <p The first Ferrari road car was the 1947 125 S, powered by a 1.5L V12 engine; Enzo Ferrari reluctantly built and sold his automobiles to fund Scuderia Ferrari.
+             While his beautiful and fast cars quickly gained a reputation for excellence, Enzo maintained a famous distaste for his customers.></p>
+          <h3 Sports car racing></h3>
+          <p In 1949, Luigi Chinetti drove a 166M to Ferrari´s first win in motorsports, the 24 Hours of Le Mans. Ferrari went on to dominate the early years of the World Sportscar Championship which was created in 1953, winning the Manufacturers Championship seven out of its first nine years.
+
+When the championship changed formats in 1962, Ferrari earned championships in at least one class until 1966, then again in 1968. Ferrari would win one final championship in 1972 before Enzo decided to leave sports car racing and concentrate Scuderia Ferrari solely on Formula One.
+            During Ferrari´s seasons of the World Sportscar Championship, they also gained more wins at the 24 Hours of Le Mans, with the factory team earning their first in 1954. Another win would come in 1958, followed by five consecutive wins from 1960 to 1964. Luigi Chinetti´s North American Racing Team (NART) would take Ferrari´s final victory at Le Mans in 1965.
+
+Although Scuderia Ferrari no longer participated in sports cars after 1973, they have occasionally built various successful sports cars for privateers. These include the 512BB - LM in the 1970s, the 333 SP which won the IMSA GT Championship in the 1990s, and currently the F430 GT2 and GT3 which are currently winning championships in their respective classes.></p>
+          <h3 Formula One ></h3>
+          <p Main article: Scuderia Ferrari
+The Scuderia joined the Formula One World Championship in the first year of its existence, 1950. José Froilán González gave the team its first victory at the 1951 British Grand Prix.
+
+Alberto Ascari gave Ferrari its first Drivers Championship a year later. Ferrari is the oldest team left in the championship, not to mention the most successful: the team holds nearly every Formula One record. 
+            As of 2007[update], the team´s records include 15 World Drivers Championship titles (1952, 1953, 1956, 1958, 1961, 1964, 1975, 1977, 1979, 2000, 2001, 2002, 2003, 2004 and 2007) 16 World Constructors Championship titles 1961, 1964, 1975, 1976, 1977, 1979, 1982, 1983, 1999, 2000, 2001, 2002, 2003, 2004, 2007 and 2008, 201 Grand Prix victories, 4753.27 points, 603 podium finishes, 195 pole positions, 12,489 laps led, and 205 fastest laps in 758 Grands Prix contested.
+            Notable Ferrari drivers include Tazio Nuvolari, Juan Manuel Fangio, Luigi Chinetti, Alberto Ascari, Wolfgang von Trips, Phil Hill, Olivier Gendebien, Mike Hawthorn, Peter Collins, John Surtees, Lorenzo Bandini, Ludovico Scarfiotti, Jacky Ickx, Mario Andretti, Clay Regazzoni, Niki Lauda, Carlos Reutemann, Jody Scheckter, Gilles Villeneuve, Didier Pironi, Michele Alboreto, Gerhard Berger, Nigel Mansell, Alain Prost, Jean Alesi, Eddie Irvine, Rubens Barrichello, Michael Schumacher, Kimi Räikkönen, and Felipe Massa.
+
+The Scuderia Ferrari drivers for the 2006 F1 season were Michael Schumacher and Felipe Massa. At the end of the 2006 season the team courted controversy by continuing to allow Marlboro to sponsor them after they, along with the other F1 teams, made a promise to end sponsorship deals with tobacco manufacturers. A five year deal worth a reported $500 million was agreed.[citation needed]
+
+The drivers competing for 2008 were Felippe Massa and defending champion Kimi Räikkönen (both retained from 2007). Massa finished the season as runner-up to McLaren´s Lewis Hamilton, with Räikkönen third. Massa and Räikkönen have again been signed by Ferrari for the 2009 season.></p>
+        </div>
+      </article>
+    </div>
+  </body>
+</html>
